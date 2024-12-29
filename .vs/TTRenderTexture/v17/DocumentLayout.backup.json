@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sykazcr\\TTRenderTexture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3A2ECC-E0D5-17E1-0B54-404751900439}|Assembly-CSharp.csproj|c:\\users\\sykazcr\\ttrendertexture\\assets\\scripts\\rendertex2png.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3A2ECC-E0D5-17E1-0B54-404751900439}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rendertex2png.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3A2ECC-E0D5-17E1-0B54-404751900439}|Assembly-CSharp.csproj|C:\\Users\\sykazcr\\TTRenderTexture\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3A2ECC-E0D5-17E1-0B54-404751900439}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3A2ECC-E0D5-17E1-0B54-404751900439}|Assembly-CSharp.csproj|C:\\Users\\sykazcr\\TTRenderTexture\\assets\\scripts\\maincameratt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3A2ECC-E0D5-17E1-0B54-404751900439}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maincameratt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RenderTex2Png.cs",
+              "DocumentMoniker": "C:\\Users\\sykazcr\\TTRenderTexture\\Assets\\Scripts\\RenderTex2Png.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RenderTex2Png.cs",
+              "ToolTip": "C:\\Users\\sykazcr\\TTRenderTexture\\Assets\\Scripts\\RenderTex2Png.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RenderTex2Png.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAtwEUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T04:19:05.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\sykazcr\\TTRenderTexture\\Assets\\Scripts\\main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\main.cs",
+              "ToolTip": "C:\\Users\\sykazcr\\TTRenderTexture\\Assets\\Scripts\\main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\main.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:54:04.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "maincameraTT.cs",
+              "DocumentMoniker": "C:\\Users\\sykazcr\\TTRenderTexture\\Assets\\Scripts\\maincameraTT.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\maincameraTT.cs",
+              "ToolTip": "C:\\Users\\sykazcr\\TTRenderTexture\\Assets\\Scripts\\maincameraTT.cs",
+              "RelativeToolTip": "Assets\\Scripts\\maincameraTT.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAYwJUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:19:30.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
